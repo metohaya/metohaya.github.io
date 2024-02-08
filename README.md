@@ -1,7 +1,7 @@
 # metoyaha.github.io
 
 ## Introduction
-Welcome to the official GitHub repository for **metoyaha.github.io**, a collaborative project between Addis Ababa University and the U.S. Embassy Ethiopia. This site celebrates and promotes the 120th anniversary of a significant partnership. The name "metoyaha" combines "meet" (100 in Amharic) and "Haya" (20), symbolizing the 120 years of collaboration and shared history.
+Welcome to the official GitHub repository for **metoyaha.github.io**, a collaborative project between Addis Ababa University and the U.S. Embassy Ethiopia. This site celebrates and promotes the 120th anniversary of a significant partnership. The name "metoyaha" combines "meto" (100 in Amharic) and "haya" (20), symbolizing the 120 years of collaboration and shared history.
 
 ## Purpose
 The purpose of this website is to highlight the milestones achieved over the past 120 years, showcase ongoing projects, and outline future initiatives aimed at strengthening the ties between Ethiopia and the United States. It serves as a platform for sharing stories, events, and collaborative efforts between Addis Ababa University and the U.S. Embassy in Ethiopia.
