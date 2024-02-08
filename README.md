@@ -28,6 +28,6 @@ Contributors are expected to adhere to our Code of Conduct, which promotes a res
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For more information, questions, or to provide feedback, please contact the project team at [contact@example.com](mailto:contact@example.com).
+For more information, questions, or to provide feedback, please contact the project team at [dev@amspaceseth.net](mailto:dev@amspaceseth.net).
 
 Thank you for visiting our repository and for your interest in the metoyaha.github.io project. Together, we celebrate 120 years of partnership and look forward to a future of continued collaboration and success.
